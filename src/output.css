@@ -742,6 +742,10 @@ video {
   max-width: 1500px;
 }
 
+.items-start {
+  align-items: flex-start;
+}
+
 .items-center {
   align-items: center;
 }
