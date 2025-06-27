@@ -658,6 +658,10 @@ video {
   margin-top: 32px;
 }
 
+.ml-\[30px\] {
+  margin-left: 30px;
+}
+
 .flex {
   display: flex;
 }
